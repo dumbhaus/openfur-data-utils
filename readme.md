@@ -1,9 +1,9 @@
 # OpenFur Data Utils
 
 An open source data collector and data analyzer utilized in the OpenFur 2018
-report.
+report
 
-https://dumbhaus.github.com/openfur
+https://dumbhaus.github.io/openfur
 
 ## Example .env file
 
