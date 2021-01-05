@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/dumbhaus/openfur-data-collector#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "axios-cookiejar-support": "^0.5.0",
     "bottleneck": "^2.19.5",
     "chalk": "^2.4.2",
